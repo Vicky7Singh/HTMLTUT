@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main {
+    background: url("photo.jpg");
+    height:100vh;
+}
+.btn_one{
+    color:wheat;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 16px;
+    line-height: 60px;
+}
